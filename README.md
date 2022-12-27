@@ -24,6 +24,4 @@
 * * currying function
 
 ## Project Live Server Link : 
-* Coming Soon !
-* Note : Need to host product data in server
-* [Server Data](https://github.com/ShahariarRahman/reducer-contextapi-project-server)
+* [MoonTech](https://moontech.netlify.app/)
