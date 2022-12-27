@@ -1,8 +1,14 @@
 import { ADD_TO_CART } from '../actionTypes/actionTypes'
 const cartCounter = (store) => (next) => (action) => {
     if (action.type === ADD_TO_CART) {
-        console.log(action);
-    }
+        const newAction = {
+            ...action, payload: {
+                ...action.payload,
+                cartPosition: store.getState().product.cart.length,
+            },
+        };
+        return next(newAction);
+    };
     return next(action);
 };
 
