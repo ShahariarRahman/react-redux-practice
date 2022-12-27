@@ -1,5 +1,7 @@
 # React Redux Practice
-## Topics discussed in this project:
+## Project Live Server Link : 
+* [MoonTech](https://moontech.netlify.app/)
+## Topics discussed in this project :
 * Redux, react-redux, installation process
 * Redux structure 
 * * actions
@@ -22,6 +24,3 @@
 * * load product data
 * Custom middleware 
 * * currying function
-
-## Project Live Server Link : 
-* [MoonTech](https://moontech.netlify.app/)
