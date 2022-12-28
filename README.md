@@ -1,7 +1,7 @@
-# React Redux Practice
-## Project Live Server Link : 
-* [MoonTech](https://moontech.netlify.app/)
-## Topics discussed in this project :
+# React Redux Practice 
+#### Live Link: [MoonTech](https://moontech.netlify.app/)
+
+### Topics discussed in this project :
 * Redux, react-redux, installation process
 * Redux structure 
 * * actions
